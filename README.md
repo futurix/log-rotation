@@ -4,4 +4,6 @@ Once upon a time I ran my own web server using Apache on Windows Server 2003 (be
 
 Don't ask why - I have no idea.
 
-Tools: Visual C++ 2005, Apache header files
+Tools:  
+Visual C++ 2005  
+Apache header files
